@@ -21,5 +21,5 @@
 - Bandwidth Throttle / Bandwidth Simulator: https://www.charlesproxy.com/documentation/proxying/throttling/
 
 # Gotchas!
-!Remember to turn charles proxy off on the device under test after use, otherwise be prepared for wonky test results. 
-!Remember to turn Breakpoint / Map Local / Rewrite tools off after user, otherwise be prepared for wonky test results. 
+- Remember to turn charles proxy off on the device under test after use, otherwise be prepared for wonky test results. 
+- Remember to turn Breakpoint / Map Local / Rewrite tools off after user, otherwise be prepared for wonky test results. 
